@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/Aman_Jain_27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 </div>
-## 📊 LeetCode Stats
+<h2 >Leetcode Info<h2>  
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=heatmap" alt="LeetCode Stats" />
 
 # 💻 Tech Stack:
