@@ -21,4 +21,5 @@
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=heatmap" alt="LeetCode Stats" />
 
 # GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanjainji&hide_total_contributions=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjainji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
