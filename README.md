@@ -22,5 +22,5 @@
 <h2 >Leetcode Info<h2>  
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=heatmap" alt="LeetCode Stats" />
 
-#Top Languages:
+# Top Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjainji&theme=dark&hide_border=false&include_all_commits=false&layout=compact)
