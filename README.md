@@ -2,7 +2,7 @@
 🔭 I’m currently working on Deep Learning, Full Stack and Mobile App Development and enhancing my skills in DSA.<br>👯 I’m looking to collaborate on exciting web development projects and competitive programming challenges.<br>🤝 I’m looking for help with problem-solving strategies and optimization techniques on platforms like LeetCode and CodeChef.<br>🌱 I’m currently learning advanced JavaScript, backend frameworks, and diving deeper into system design concepts.<br>💬 Ask me about coding challenges, web development, and tips for competitive programming.<br>⚡ Fun fact: I believe every bug is just an undiscovered feature!
 
 
-## Socials:
+# Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/amanjain2618) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_aman_jain_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-jain-059278290) 
 
 
@@ -23,7 +23,7 @@
 <h2 >Leetcode Info<h2>  
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=heatmap" alt="LeetCode Stats" />
 
-# Current Statistics
+# Current Statistics:
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanjainji&theme=react)](https://github.com/Amanjainji/github-readme-activity-graph)<br>
 <div align=center>
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=Amanjainji&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /><br>
