@@ -26,6 +26,6 @@
   <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Amanjainji&count_private=true&border_radius=10" alt="streak stats"/>
+  [![](https://github-readme-activity-graph.vercel.app/graph?username=Amanjainji&theme=dark)](https://github.com/Amanjainji/github-readme-activity-graph)
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanjainji&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
