@@ -13,6 +13,7 @@
 <div> 
 <h2>🎖️Leetcode Badges<h2>  
 <p align="center">
+  <a href="https://leetcode.com/Aman_Jain_27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2025.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Aman_Jain_27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Aman_Jain_27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/Aman_Jain_27/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202509.gif" alt="jyot" height="200" width="200" /></a>
