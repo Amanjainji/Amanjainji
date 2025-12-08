@@ -30,4 +30,5 @@
 
 # Current Statistics:
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanjainji&theme=react)](https://github.com/Amanjainji/github-readme-activity-graph)<br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amanjainji?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
