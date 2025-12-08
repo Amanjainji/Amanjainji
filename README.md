@@ -29,6 +29,6 @@
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=heatmap" alt="LeetCode Stats" />
 
 # Current Statistics:
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanjainji&theme=react)](https://github.com/Amanjainji/github-readme-activity-graph)<br>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amanjainji?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanjainji&theme=react)](https://github.com/Amanjainji/github-readme-activity-graph)<br><br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amanjainji?cardType=level&theme=highcontrast&preferLogin=false)](https://git.io/awesome-stats-card)
 <br>
