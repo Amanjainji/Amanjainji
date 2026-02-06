@@ -32,6 +32,8 @@
 </div>
 <h2>Leetcode Info<h2>  
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=contest" alt="LeetCode Stats" />
+![Description](Screenshot 2026-02-06 122146.png)
+
 
 # Current Statistics:
 [![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanjainji&theme=react)](https://github.com/Amanjainji/github-readme-activity-graph)<br><br>
