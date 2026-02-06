@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Deep Learning, Full Stack and Mobile App Development and enhancing my skills in Cloud Technology.<br>👯 I’m looking to collaborate on exciting web development projects and competitive programming challenges.<br>🤝 I’m looking for help with problem-solving and optimization strategies on platforms like LeetCode,Codeforces and CodeChef.<br>🌱 I’m currently learning advanced JavaScript, backend frameworks, and diving deeper into system design concepts.<br>💬 Ask me about coding challenges, web development, and tips for competitive programming.<br>⚡ Fun fact: Overnight Success is a myth!
+🔭 I’m currently working on Deep Learning, Full Stack and App Development. <br>👯 I’m looking to collaborate on exciting hackathons and competitive programming challenges.<br>🤝 I’m looking for help with problem-solving and optimization strategies on platforms like LeetCode,Codeforces and CodeChef.<br>🌱 I’m currently learning advanced JavaScript, backend frameworks, and diving deeper into system design concepts.<br>💬 Ask me about coding challenges, web development, and tips for competitive programming.<br>⚡ Fun fact: Overnight Success is a myth!
 
 
 # Socials:
@@ -30,7 +30,7 @@
 
 </p>
 </div>
-<h2>📝Leetcode Info<h2>  
+<h2>Leetcode Info<h2>  
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=contest" alt="LeetCode Stats" />
 
 # Current Statistics:
