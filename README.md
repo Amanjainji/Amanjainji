@@ -32,7 +32,7 @@
 </div>
 <h2>Leetcode Info<h2>  
 <img src="https://leetcard.jacoblin.cool/Aman_Jain_27?theme=dark&font=Noto%20Sans%20Old%20North%20Arabian&ext=contest" alt="LeetCode Stats" />
-<img src="Screenshot 2026-02-06 122146.png" width="600">
+<img src="Screenshot 2026-02-06 122146.png">
 
 
 # Current Statistics:
