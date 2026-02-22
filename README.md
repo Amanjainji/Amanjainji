@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Deep Learning, Full Stack and App Development. <br>👯 I’m looking to collaborate on exciting hackathons and competitive programming challenges.<br>🤝 I’m looking for help with problem-solving and optimization strategies on platforms like LeetCode,Codeforces and CodeChef.<br>🌱 I’m currently learning advanced JavaScript, backend frameworks, and diving deeper into system design concepts.<br>💬 Ask me about coding challenges, web development, and tips for competitive programming.<br>⚡ Fun fact: Overnight Success is a myth!
+🔭 I’m currently working on Deep Learning, Full Stack and Web Development. <br>👯 I’m looking to collaborate on exciting hackathons and competitive programming challenges.<br>🤝 My competitive programming journey is currently I’m Specialist at Codeforces, Knight at Leetcode and 3 star at Codechef.<br>🌱 I’m currently learning advanced JavaScript, backend frameworks, and diving deeper into system design concepts.<br>💬 Ask me about coding challenges, web development, and tips for competitive programming.<br>⚡ Fun fact: Overnight Success is a myth!
 
 
 # Socials:
